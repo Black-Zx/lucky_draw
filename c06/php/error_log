@@ -1,0 +1,52 @@
+[06-Jun-2024 04:46:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 04:46:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 04:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 04:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 06:14:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 06:14:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 06:15:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 06:15:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 06:29:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 06:29:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 06:48:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 06:48:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 06:59:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 06:59:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 07:25:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 07:25:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 07:26:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 07:26:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 07:30:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 07:30:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 07:33:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 07:33:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[06-Jun-2024 08:00:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 30
+[06-Jun-2024 08:00:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php:27) in /home/myecdc/public_html/bat-one/public/c05program/php/get_names.php on line 31
+[11-Jun-2024 10:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 25
+[11-Jun-2024 10:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 25
+[11-Jun-2024 10:17:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 25
+[11-Jun-2024 10:18:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 25
+[11-Jun-2024 10:18:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 25
+[11-Jun-2024 10:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 25
+[12-Jun-2024 01:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/myecdc/public_html/bat-one/public/c05program/php/updatespin.php on line 31
